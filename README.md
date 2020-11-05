@@ -1,8 +1,10 @@
-## Meu nome é Willian, sou 👨‍🎓estudante, 👨‍💻Desenvolvedor Front-End e Cientista de dados 
+## Meu nome é Willian, sou 👨‍🎓estudante de👨‍💻Desenvolvedor Front-End e Cientista de dados 
 
 
 ###  " A persistência é o caminho do êxito.
 [Charles Chaplin]
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/willian-marcos-dos-santos-962782180/)](https://www.linkedin.com/in/willian-marcos-dos-santos-962782180/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/willian40)](https://whats.link/willian40)
 [![Telegram](https://img.shields.io/badge/-Telegram-6633cc?style=flat-square&logo=Telegram&logoColor=white&color=black&link=https://t.me/wms40)](https://t.me/wms40)
