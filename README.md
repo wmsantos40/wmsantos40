@@ -1,4 +1,4 @@
-## Meu nome é Willian, sou 👨‍🎓estudante de👨‍💻Desenvolvedor Front-End e Cientista de dados 
+## Meu nome é Willian, sou 👨‍🎓estudante de👨‍💻Desenvolvedor Front-End  #HTML5 #CSS3  #JavaScript .
 
 
 ###  " A persistência é o caminho do êxito.
